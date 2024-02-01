@@ -17,7 +17,7 @@ Jessica uses her knowledge of code and user-friendly design to bridge the gap be
 
 :woman_teacher: [Teaching](https://search.asu.edu/profile/2482113)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jlbarn11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,000000,222222 "my Github Stats")
+![github stats](https://github-readme-stats.vercel.app/api?username=jlbarn11&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,222222,777777 "my Github Stats")
 <!--
 **jlbarn11/jlbarn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
